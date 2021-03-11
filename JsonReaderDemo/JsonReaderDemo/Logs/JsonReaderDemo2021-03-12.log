@@ -1,0 +1,36 @@
+00:56:17,9256,错误,button1_Click ,ceshidengji
+01:02:42,7848,追踪,button1_Click ,begin
+01:02:42,7848,追踪,使用的是jsonreader的共有类中的方法 ,日志级别：4
+01:02:42,7848,追踪,button1_Click ,end
+01:02:42,7848,错误,button1_Click ,ceshidengji
+01:44:18,17776,追踪,button1_Click ,Begin
+01:44:18,17776,追踪,JosnReader ,begin
+01:44:18,17776,追踪,读取内容： ,
+	"inbound": [{
+		"localPort": 10808,
+		"protocol": "socks",
+		"udpEnabled": true,
+		"sniffingEnabled": true
+	}],
+	"logEnabled": false,
+	"loglevel": "warning",
+	"index": 75
+}
+01:44:18,17776,追踪,开始分割字符： ,
+01:44:18,17776,追踪,开始取出第1个元素： ,
+	"inbound": [{
+		"localPort": 10808
+01:44:18,17776,追踪,开始取出第2个元素： ,
+		"protocol": "socks"
+01:44:18,17776,追踪,开始取出第3个元素： ,
+		"udpEnabled": true
+01:44:18,17776,追踪,开始取出第4个元素： ,
+		"sniffingEnabled": true
+	}]
+01:44:18,17776,追踪,开始取出第5个元素： ,
+	"logEnabled": false
+01:44:18,17776,追踪,开始取出第6个元素： ,
+	"loglevel": "warning"
+01:44:18,17776,追踪,开始取出第7个元素： ,
+	"index": 75
+}
